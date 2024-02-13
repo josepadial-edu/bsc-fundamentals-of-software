@@ -1,28 +1,12 @@
-# FS
-FS - UGR (Fundamentos del Software)
+# Fundamentals of Software (UGR)
 
-<!-- TABLE OF CONTENTS -->
-## Tabla de contenidos
+This is a repository for the Fundamentals of Software subject that I took in my first year of the Bachelor's Degree in Computer Engineering at University of Granada (UGR). Here you can find the notes that I did for this subject.
 
-* [Material de Prácticas](#p)
-* [Material de Teoría](#p)
-* [Construido con](#built-with)
-* [Licencia](#license)
-* [Contacto](#contact)
+## Contents
 
-## Material de Prácticas
+- Notes: This folder contains the notes that I took for the Fundamentals of Software subject. The notes cover the basics of the fundamentals of software development, testing, debugging, etc.
+- Exercises: This folder contains the exercises that I did for the Fundamentals of Software subject. The exercises are divided into different topics and levels of difficulty.
 
-## Material de Teoría
+## Contact
 
-## Construido con
-[Bash](https://www.gnu.org/software/bash/)
-
-<!-- LICENCIA -->
-## Licencia
-
-Distribuido bajo la licencia MIT. Vea `LICENSE` para más información.
-
-<!-- CONTACTO -->
-## Contacto
-
-Jose Antonio Padial Molina - joseapadialmolina@gmail.com
+If you have any questions or suggestions about my repository, you can contact me at joseapadialmolina@gmail.com. Thank you for visiting my GitHub profile. 😊
