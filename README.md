@@ -1,12 +1,38 @@
-# Fundamentals of Software (UGR)
+# Fundamentals of Software – UGR
 
-This is a repository for the Fundamentals of Software subject that I took in my first year of the Bachelor's Degree in Computer Engineering at University of Granada (UGR). Here you can find the notes that I did for this subject.
+This repository contains coursework, exercises, and practical materials for the **Fundamentals of Software** course, part of the **Bachelor’s Degree in Computer Science** at the **University of Granada (UGR)**.
 
-## Contents
+---
 
-- Notes: This folder contains the notes that I took for the Fundamentals of Software subject. The notes cover the basics of the fundamentals of software development, testing, debugging, etc.
-- Exercises: This folder contains the exercises that I did for the Fundamentals of Software subject. The exercises are divided into different topics and levels of difficulty.
+##  Course Overview
+This foundational course introduces essential concepts in software development, focusing on architecture basics, system layers, and core understanding of how software operates on hardware systems.
 
-## Contact
+### Recommended Background
+- **Technology & Computer Organization**  
+- **Fundamentals of Programming**  
+Although not mandatory, prior knowledge of these subjects significantly helps understanding the course material. :contentReference[oaicite:6]{index=6}
 
-If you have any questions or suggestions about my repository, you can contact me at joseapadialmolina@gmail.com. Thank you for visiting my GitHub profile. 😊
+---
+
+##  Repository Structure
+- `Material de Teoria/` → Lecture notes and summaries of software fundamentals  
+- `Material de Practicas/` → Practical exercises and corresponding solutions  
+
+
+---
+
+##  Academic Context
+- **Degree:** Bachelor’s in Computer Science (UGR)  
+- **Year:** 1st Year  
+- **Semester:** 1st Semester  
+- **Department:** Software Engineering / Computer Systems
+
+---
+
+[![Back to Index](https://img.shields.io/badge/←%20Back_to_Index-2ea44f?style=for-the-badge)](https://github.com/josepadial-edu/bachelor-computer-science-index)
+
+---
+
+## 📬 Contact
+For questions or suggestions about these repositories:  
+🔗 [GitHub Profile – josepadial](https://github.com/josepadial)
